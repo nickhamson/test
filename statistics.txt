@@ -1,3 +1,4 @@
 -mean, sd
 -regression
 -bayes thrm
+-mcmc
