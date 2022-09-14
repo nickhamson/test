@@ -1,0 +1,112 @@
+    7  git --version
+   29  git config --global user.name "nickhamson"
+   30  git config --global user.name
+   31  git config --global user.email "nick.the.hamson@gmail.com"
+   32  git config --global  init.defaultBranch 
+   33  git config init.defaultBranch 
+   34  git config --global  init.defaultBranch main
+   35  git config init.defaultBranch 
+   36  git config core.editor
+   37  git config
+   38  git config --global --unset init.defaultbranch 
+   39  git config init.defaultBranch 
+   40  git config --global  init.defaultBranch main
+   41  git config --global 
+   42  git --version 
+   59  git status 
+   60  git init
+   63  git status
+   68  git status 
+   69  git add history.txt 
+   70  git status 
+   71  git commit -m 'create history file'
+   72  git status
+   73  git add statistics.txt 
+   74  git commit 
+   75  git log
+   76  git status 
+   78  git status 
+   79  git add statistics.txt 
+   80  git config core.autocrlf true
+   81  git status 
+   82  git commit -m "changed contents of statistics"
+   83  git log
+   86  git status 
+   87  git restore statistics.txt 
+   88  git status 
+   90  git status 
+   91  git add.
+   92  git add .
+   93  git commit -m "update everything"
+   94  git commit
+   95  git commit -a -m "updated both files"
+   97  git status 
+  107  git status
+  114  git status 
+  117  git status 
+  119  git add .gitignore
+  120  git commit -m "ignore stuff"
+  121  git status 
+  123  git add api-keys.txt 
+  128  git 
+  132  git init
+  139  git status
+  140  git add history.txt 
+  141  git add statistics.txt 
+  144  git commit
+  146  git status
+  147  git add statistics.txt 
+  148  git sta
+  149  git status 
+  150  git commit 
+  152  git status 
+  160  git log
+  161  git log --oneline 
+  164  git branch
+  165  git branch music
+  166  git branch
+  167  git switch music 
+  168  git branch
+  169  git switch
+  170  git switch main
+  171  git switch dfkjd
+  172  git switch music
+  175  git log
+  180  git log
+  181  git status 
+  182  git add music.txt 
+  184  git add music.txt 
+  185  git commit -m "add music class"
+  186  git status 
+  187  git log
+  188  git log --oneline 
+  189  git branch
+  190  git branch orchestra
+  191  git log --oneline 
+  192  git switch orchestra 
+  195  git branch 
+  198  git add orc.txt 
+  199  git status 
+  200  git commit
+  203  git branch
+  204  git merge orchestra 
+  205  git branch
+  206  git switch music
+  207  git log
+  209  git merge orchestra 
+  210  git branch -d orchestra 
+  211  git branch
+  212  git long --o
+  213  git log --oneline 
+  216  git status 
+  217  git switch main
+  218  git merge music 
+  219  git branch -d music 
+  220  git branch 
+  228  git remote add origin git@github.com:nickhamson/test.git
+  229  git status 
+  230  git push 
+  231  git push -u origin main
+  232  git status 
+  233  history | grep "git " > git_commands.txt1~
+  236  history | grep "git " > git_commands.txt
